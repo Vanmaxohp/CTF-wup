@@ -1198,7 +1198,7 @@ Sau khi chỉnh sửa lại bảng mã, mình chạy lại code và thu được
 
 ## Flag 
 
-`Flag{not_a_substitution_cipher}`
+`Flag{NOT_A_SUBSTITUTION_CIPHER}`
 
 Chỉ tìm ra flag thì hơi ít, nên mình tiếp tục phân tích tần suất, sai và thử để chèn thêm dấu cách đúng chỗ, sau đó sử dụng [quipqiup](https://www.quipqiup.com/) để giải mã và thu được toàn bộ đoạn văn:
 
